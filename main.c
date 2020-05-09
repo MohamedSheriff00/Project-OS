@@ -3,10 +3,10 @@
 #include <string.h>
 int main(){
 	int x;
-	int y;
+	int y=1;
 	printf(" Welcome Here You Can Implement a File Manager...\n");
 	printf(" Please choose an number from the following\n");
-	printf(" Note: Please be in the folder you want implentations to be in !\n");
+	printf(" Note: Please be in the folder you want implementations to be in !\n");
 	printf("________________________________________________________________\n");
 	printf("1) Want to List Directory !\n");
 	printf("2) Change Permission for Files/Directories !\n");
