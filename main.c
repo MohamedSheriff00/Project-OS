@@ -10,9 +10,9 @@ int main(){
 	printf("________________________________________________________________\n");
 	printf("1) Want to List Directory !\n");
 	printf("2) Change Permission for Files/Directories !\n");
-	printf("3) Create/Delete a File/Directory\n");
-	printf("4) Want to List Directory?\n");
-	printf("5) Want to List Directory?\n");
+	printf("3) Create/Delete a File/Directory !\n");
+	printf("4) Rename Directory/File !\n");
+	printf("5) Create Symbolic link File/Directory !\n");
 	scanf("%d",&x);
 		 while(y!=0){
 			 if(x==1){
